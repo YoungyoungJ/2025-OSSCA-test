@@ -2,11 +2,11 @@ Autograd in C++ Frontend
 ========================
 
 ``autograd`` 패키지는 PyTorch에서 매우 유연하고 동적인 신경망을 구축하는 데 핵심적입니다. 
-PyTorch의 Python 프런트엔드에 있는 대부분의 autograd API는 C++ 프런트엔드에도 제공되어, 
+PyTorch의 Python 프론트엔드에 있는 대부분의 autograd API는 C++ 프론트엔드에도 제공되어, 
 autograd 코드를 Python에서 C++로 쉽게 옮길 수 있습니다.
 
 
-이 튜토리얼에서는 PyTorch C++ 프런트엔드에서 autograd를 사용하는 여러 예제를 살펴봅니다.
+이 튜토리얼에서는 PyTorch C++ 프론트엔드에서 autograd를 사용하는 여러 예제를 살펴봅니다.
 Note that this tutorial assumes that you already have a basic understanding of
 autograd in Python frontend. If that's not the case, please first read
 `Autograd: Automatic Differentiation <https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html>`_.
